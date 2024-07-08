@@ -18,7 +18,7 @@ The objective of this project is to create a program where the user can choose f
 Java 17 \
 IntellJ V21 \
 API (Application Programming Interface) \
-Insomnia API platform
+Insomnia API platform \
 Postgres database
 
 ## :bulb: How to use?
